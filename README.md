@@ -1,2 +1,4 @@
-# java-strings
-Java Strings
+# Java Strings
+
+## Java 11 - New String Methods
+
