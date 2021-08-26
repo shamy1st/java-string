@@ -1,4 +1,6 @@
 # Java String
 
-## Java 11 - New String Methods
+## Java 11
+
+### New String Methods
 
